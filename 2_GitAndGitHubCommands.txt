@@ -1,0 +1,21 @@
+Git >> Version controll
+ 
+ WhatsApp v1
+    v2
+    v3
+new v4 >> bugs
+>> Testing Problem
+Shut down v4 and run v3
+
+>>Its distributed (on cloud)
+>> Collarboration
+>> Tracking and recovery
+
+
+
+Mandatory Commands:
+>> git init
+>> git remote add origin https://github.com/Kiaankc/Git.git
+
+
+git pull origin main
